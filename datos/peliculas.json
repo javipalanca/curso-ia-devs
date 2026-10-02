@@ -1,0 +1,597 @@
+[
+  {
+    "id": 1,
+    "titulo": "Blade Runner",
+    "anyo": 1982,
+    "generos": [
+      "Ciencia ficción",
+      "Neo-noir"
+    ],
+    "director": "Ridley Scott",
+    "duracion_min": 117,
+    "puntuacion": 8.1
+  },
+  {
+    "id": 2,
+    "titulo": "Blade Runner 2049",
+    "anyo": 2017,
+    "generos": [
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "director": "Denis Villeneuve",
+    "duracion_min": 164,
+    "puntuacion": 8.0
+  },
+  {
+    "id": 3,
+    "titulo": "El padrino",
+    "anyo": 1972,
+    "generos": [
+      "Drama",
+      "Crimen"
+    ],
+    "director": "Francis Ford Coppola",
+    "duracion_min": 175,
+    "puntuacion": 9.2
+  },
+  {
+    "id": 4,
+    "titulo": "Amanece que no es poco",
+    "anyo": 1989,
+    "generos": [
+      "Comedia"
+    ],
+    "director": "José Luis Cuerda",
+    "duracion_min": 108,
+    "puntuacion": 7.8
+  },
+  {
+    "id": 5,
+    "titulo": "The Matrix",
+    "anyo": 1999,
+    "generos": [
+      "Ciencia ficción",
+      "Acción"
+    ],
+    "director": "Lana y Lilly Wachowski",
+    "duracion_min": 136,
+    "puntuacion": 8.7
+  },
+  {
+    "id": 6,
+    "titulo": "Arrival",
+    "anyo": 2016,
+    "generos": [
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "director": "Denis Villeneuve",
+    "duracion_min": 116,
+    "puntuacion": 7.9
+  },
+  {
+    "id": 7,
+    "titulo": "Ex Machina",
+    "anyo": 2014,
+    "generos": [
+      "Ciencia ficción",
+      "Thriller"
+    ],
+    "director": "Alex Garland",
+    "duracion_min": 108,
+    "puntuacion": 7.7
+  },
+  {
+    "id": 8,
+    "titulo": "Her",
+    "anyo": 2013,
+    "generos": [
+      "Ciencia ficción",
+      "Romance"
+    ],
+    "director": "Spike Jonze",
+    "duracion_min": 126,
+    "puntuacion": 8.0
+  },
+  {
+    "id": 9,
+    "titulo": "Interstellar",
+    "anyo": 2014,
+    "generos": [
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "director": "Christopher Nolan",
+    "duracion_min": 169,
+    "puntuacion": 8.7
+  },
+  {
+    "id": 10,
+    "titulo": "Dune",
+    "anyo": 2021,
+    "generos": [
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "director": "Denis Villeneuve",
+    "duracion_min": 155,
+    "puntuacion": 8.0
+  },
+  {
+    "id": 11,
+    "titulo": "Dune: Parte dos",
+    "anyo": 2024,
+    "generos": [
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "director": "Denis Villeneuve",
+    "duracion_min": 166,
+    "puntuacion": 8.5
+  },
+  {
+    "id": 12,
+    "titulo": "Mad Max: Furia en la carretera",
+    "anyo": 2015,
+    "generos": [
+      "Acción",
+      "Ciencia ficción"
+    ],
+    "director": "George Miller",
+    "duracion_min": 120,
+    "puntuacion": 8.1
+  },
+  {
+    "id": 13,
+    "titulo": "El marciano",
+    "anyo": 2015,
+    "generos": [
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "director": "Ridley Scott",
+    "duracion_min": 144,
+    "puntuacion": 8.0
+  },
+  {
+    "id": 14,
+    "titulo": "Vivarium",
+    "anyo": 2019,
+    "generos": [
+      "Ciencia ficción",
+      "Terror"
+    ],
+    "director": "Lorcan Finnegan",
+    "duracion_min": 97,
+    "puntuacion": null
+  },
+  {
+    "id": 15,
+    "titulo": "Annihilation",
+    "anyo": 2018,
+    "generos": [
+      "Ciencia ficción",
+      "Terror"
+    ],
+    "director": "Alex Garland",
+    "duracion_min": 115,
+    "puntuacion": 6.8
+  },
+  {
+    "id": 16,
+    "titulo": "Everything Everywhere All at Once",
+    "anyo": 2022,
+    "generos": [
+      "Ciencia ficción",
+      "Comedia"
+    ],
+    "director": "Daniel Kwan y Daniel Scheinert",
+    "duracion_min": 139,
+    "puntuacion": 7.8
+  },
+  {
+    "id": 17,
+    "titulo": "Parásitos",
+    "anyo": 2019,
+    "generos": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Bong Joon-ho",
+    "duracion_min": 132,
+    "puntuacion": 8.5
+  },
+  {
+    "id": 18,
+    "titulo": "Memorias de un asesino",
+    "anyo": 2003,
+    "generos": [
+      "Crimen",
+      "Drama"
+    ],
+    "director": "Bong Joon-ho",
+    "duracion_min": 131,
+    "puntuacion": 8.1
+  },
+  {
+    "id": 19,
+    "titulo": "Whiplash",
+    "anyo": 2014,
+    "generos": [
+      "Drama",
+      "Música"
+    ],
+    "director": "Damien Chazelle",
+    "duracion_min": 106,
+    "puntuacion": 8.5
+  },
+  {
+    "id": 20,
+    "titulo": "La La Land",
+    "anyo": 2016,
+    "generos": [
+      "Musical",
+      "Romance"
+    ],
+    "director": "Damien Chazelle",
+    "duracion_min": 128,
+    "puntuacion": 8.0
+  },
+  {
+    "id": 21,
+    "titulo": "El laberinto del fauno",
+    "anyo": 2006,
+    "generos": [
+      "Fantasía",
+      "Drama"
+    ],
+    "director": "Guillermo del Toro",
+    "duracion_min": 118,
+    "puntuacion": 8.2
+  },
+  {
+    "id": 22,
+    "titulo": "La forma del agua",
+    "anyo": 2017,
+    "generos": [
+      "Fantasía",
+      "Romance"
+    ],
+    "director": "Guillermo del Toro",
+    "duracion_min": 123,
+    "puntuacion": 7.3
+  },
+  {
+    "id": 23,
+    "titulo": "Los otros",
+    "anyo": 2001,
+    "generos": [
+      "Terror",
+      "Misterio"
+    ],
+    "director": "Alejandro Amenábar",
+    "duracion_min": 101,
+    "puntuacion": 7.6
+  },
+  {
+    "id": 24,
+    "titulo": "Tesis",
+    "anyo": 1996,
+    "generos": [
+      "Thriller",
+      "Terror"
+    ],
+    "director": "Alejandro Amenábar",
+    "duracion_min": 125,
+    "puntuacion": 7.4
+  },
+  {
+    "id": 25,
+    "titulo": "El día de la bestia",
+    "anyo": 1995,
+    "generos": [
+      "Comedia",
+      "Terror"
+    ],
+    "director": "Álex de la Iglesia",
+    "duracion_min": 103,
+    "puntuacion": 7.4
+  },
+  {
+    "id": 26,
+    "titulo": "Volver",
+    "anyo": 2006,
+    "generos": [
+      "Drama",
+      "Comedia"
+    ],
+    "director": "Pedro Almodóvar",
+    "duracion_min": 121,
+    "puntuacion": 7.6
+  },
+  {
+    "id": 27,
+    "titulo": "Todo sobre mi madre",
+    "anyo": 1999,
+    "generos": [
+      "Drama"
+    ],
+    "director": "Pedro Almodóvar",
+    "duracion_min": 101,
+    "puntuacion": 7.9
+  },
+  {
+    "id": 28,
+    "titulo": "Celda 211",
+    "anyo": 2009,
+    "generos": [
+      "Thriller",
+      "Drama"
+    ],
+    "director": "Daniel Monzón",
+    "duracion_min": 113,
+    "puntuacion": 7.6
+  },
+  {
+    "id": 29,
+    "titulo": "La isla mínima",
+    "anyo": 2014,
+    "generos": [
+      "Thriller",
+      "Crimen"
+    ],
+    "director": "Alberto Rodríguez",
+    "duracion_min": 105,
+    "puntuacion": 7.3
+  },
+  {
+    "id": 30,
+    "titulo": "Que Dios nos perdone",
+    "anyo": 2016,
+    "generos": [
+      "Thriller",
+      "Crimen"
+    ],
+    "director": "Rodrigo Sorogoyen",
+    "duracion_min": 127,
+    "puntuacion": 7.2
+  },
+  {
+    "id": 31,
+    "titulo": "As bestas",
+    "anyo": 2022,
+    "generos": [
+      "Thriller",
+      "Drama"
+    ],
+    "director": "Rodrigo Sorogoyen",
+    "duracion_min": 137,
+    "puntuacion": 7.5
+  },
+  {
+    "id": 32,
+    "titulo": "Alcarràs",
+    "anyo": 2022,
+    "generos": [
+      "Drama"
+    ],
+    "director": "Carla Simón",
+    "duracion_min": 120,
+    "puntuacion": 6.9
+  },
+  {
+    "id": 33,
+    "titulo": "La sociedad de la nieve",
+    "anyo": 2023,
+    "generos": [
+      "Drama",
+      "Aventura"
+    ],
+    "director": "J. A. Bayona",
+    "duracion_min": 144,
+    "puntuacion": 7.8
+  },
+  {
+    "id": 34,
+    "titulo": "El hoyo",
+    "anyo": 2019,
+    "generos": [
+      "Ciencia ficción",
+      "Terror"
+    ],
+    "director": "Galder Gaztelu-Urrutia",
+    "duracion_min": 94,
+    "puntuacion": 6.9
+  },
+  {
+    "id": 35,
+    "titulo": "Gattaca",
+    "anyo": 1997,
+    "generos": [
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "director": "Andrew Niccol",
+    "duracion_min": 106,
+    "puntuacion": 7.8
+  },
+  {
+    "id": 36,
+    "titulo": "Doce monos",
+    "anyo": 1995,
+    "generos": [
+      "Ciencia ficción",
+      "Thriller"
+    ],
+    "director": "Terry Gilliam",
+    "duracion_min": 129,
+    "puntuacion": 8.0
+  },
+  {
+    "id": 37,
+    "titulo": "Solaris",
+    "anyo": 1972,
+    "generos": [
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "director": "Andrei Tarkovsky",
+    "duracion_min": 167,
+    "puntuacion": 8.0
+  },
+  {
+    "id": 38,
+    "titulo": "Stalker",
+    "anyo": 1979,
+    "generos": [
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "director": "Andrei Tarkovsky",
+    "duracion_min": 162,
+    "puntuacion": 8.1
+  },
+  {
+    "id": 39,
+    "titulo": "Primer",
+    "anyo": 2004,
+    "generos": [
+      "Ciencia ficción",
+      "Thriller"
+    ],
+    "director": "Shane Carruth",
+    "duracion_min": 77,
+    "puntuacion": null
+  },
+  {
+    "id": 40,
+    "titulo": "Coherence",
+    "anyo": 2013,
+    "generos": [
+      "Ciencia ficción",
+      "Thriller"
+    ],
+    "director": "James Ward Byrkit",
+    "duracion_min": 89,
+    "puntuacion": 7.2
+  },
+  {
+    "id": 41,
+    "titulo": "Moon",
+    "anyo": 2009,
+    "generos": [
+      "Ciencia ficción",
+      "Drama"
+    ],
+    "director": "Duncan Jones",
+    "duracion_min": 97,
+    "puntuacion": 7.8
+  },
+  {
+    "id": 42,
+    "titulo": "Upgrade",
+    "anyo": 2018,
+    "generos": [
+      "Ciencia ficción",
+      "Acción"
+    ],
+    "director": "Leigh Whannell",
+    "duracion_min": 100,
+    "puntuacion": 7.5
+  },
+  {
+    "id": 43,
+    "titulo": "Predestination",
+    "anyo": 2014,
+    "generos": [
+      "Ciencia ficción",
+      "Thriller"
+    ],
+    "director": "Michael y Peter Spierig",
+    "duracion_min": 97,
+    "puntuacion": 7.4
+  },
+  {
+    "id": 44,
+    "titulo": "Perfect Days",
+    "anyo": 2023,
+    "generos": [
+      "Drama"
+    ],
+    "director": "Wim Wenders",
+    "duracion_min": 124,
+    "puntuacion": 7.9
+  },
+  {
+    "id": 45,
+    "titulo": "Anatomía de una caída",
+    "anyo": 2023,
+    "generos": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Justine Triet",
+    "duracion_min": 151,
+    "puntuacion": 7.7
+  },
+  {
+    "id": 46,
+    "titulo": "Aftersun",
+    "anyo": 2022,
+    "generos": [
+      "Drama"
+    ],
+    "director": "Charlotte Wells",
+    "duracion_min": 102,
+    "puntuacion": null
+  },
+  {
+    "id": 47,
+    "titulo": "Robot Dreams",
+    "anyo": 2023,
+    "generos": [
+      "Animación",
+      "Drama"
+    ],
+    "director": "Pablo Berger",
+    "duracion_min": 102,
+    "puntuacion": 7.7
+  },
+  {
+    "id": 48,
+    "titulo": "El chico y la garza",
+    "anyo": 2023,
+    "generos": [
+      "Animación",
+      "Fantasía"
+    ],
+    "director": "Hayao Miyazaki",
+    "duracion_min": 124,
+    "puntuacion": 7.4
+  },
+  {
+    "id": 49,
+    "titulo": "El viaje de Chihiro",
+    "anyo": 2001,
+    "generos": [
+      "Animación",
+      "Fantasía"
+    ],
+    "director": "Hayao Miyazaki",
+    "duracion_min": 125,
+    "puntuacion": 8.6
+  },
+  {
+    "id": 50,
+    "titulo": "Akira",
+    "anyo": 1988,
+    "generos": [
+      "Animación",
+      "Ciencia ficción"
+    ],
+    "director": "Katsuhiro Otomo",
+    "duracion_min": 124,
+    "puntuacion": 8.0
+  }
+]

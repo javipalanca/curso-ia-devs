@@ -1,0 +1,33 @@
+{
+  "name": "Curso IA para programadores (UPV)",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12-bookworm",
+
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": { "version": "lts" },
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "ms-python.python",
+        "charliermarsh.ruff"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": ".venv/bin/python",
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  },
+
+  "remoteEnv": {
+    "POLIGPT_URL": "${localEnv:POLIGPT_URL}",
+    "POLIGPT_KEY": "${localEnv:POLIGPT_KEY}"
+  },
+
+  "hostRequirements": { "cpus": 2, "memory": "8gb" }
+}
